@@ -1,0 +1,6 @@
+1; Pedro; 1;
+2; Marcos; 2;
+3; João; 3;
+4; Lucas; 4;
+5; Bryan; 5;
+6; Duarte; 6;

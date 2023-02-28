@@ -1,0 +1,27 @@
+C:\Users\GSE\Desktop\AE(n)D\AE(n)D\bin\Debug\AE(n)D.exe.config
+C:\Users\GSE\Desktop\AE(n)D\AE(n)D\bin\Debug\AE(n)D.exe
+C:\Users\GSE\Desktop\AE(n)D\AE(n)D\bin\Debug\AE(n)D.pdb
+C:\Users\GSE\Desktop\AE(n)D\AE(n)D\obj\Debug\AE(n)D.csprojAssemblyReference.cache
+C:\Users\GSE\Desktop\AE(n)D\AE(n)D\obj\Debug\AE_n_D.Properties.Resources.resources
+C:\Users\GSE\Desktop\AE(n)D\AE(n)D\obj\Debug\AE(n)D.csproj.GenerateResource.cache
+C:\Users\GSE\Desktop\AE(n)D\AE(n)D\obj\Debug\AE(n)D.exe
+C:\Users\GSE\Desktop\AE(n)D\AE(n)D\obj\Debug\AE(n)D.pdb
+C:\Users\GSE\Desktop\AE(n)D\AE(n)D\obj\Debug\AE_n_D.MedicoForm.resources
+C:\Users\GSE\Desktop\AE(n)D\AE(n)D\obj\Debug\AE_n_D.PacienteForm.resources
+C:\Users\GSE\Desktop\AE(n)D\AE(n)D\obj\Debug\AE_n_D.ConsultasForm.resources
+C:\Users\GSE\Desktop\AE(n)D\AE(n)D\obj\Debug\AE_n_D.AnfangForms.resources
+C:\Users\GSE\Desktop\AE(n)D\AE(n)D\obj\Debug\AE_n_D.MenuForms.resources
+C:\Users\lucbr\Downloads\b423870b-e4fd-471b-ada9-5c128bf5bfb6_1828841_P6_Joao Lucas Bryan Goncalves Duarte (1)\AE(n)D\AE(n)D\bin\Debug\AE(n)D.exe.config
+C:\Users\lucbr\Downloads\b423870b-e4fd-471b-ada9-5c128bf5bfb6_1828841_P6_Joao Lucas Bryan Goncalves Duarte (1)\AE(n)D\AE(n)D\bin\Debug\AE(n)D.exe
+C:\Users\lucbr\Downloads\b423870b-e4fd-471b-ada9-5c128bf5bfb6_1828841_P6_Joao Lucas Bryan Goncalves Duarte (1)\AE(n)D\AE(n)D\bin\Debug\AE(n)D.pdb
+C:\Users\lucbr\Downloads\b423870b-e4fd-471b-ada9-5c128bf5bfb6_1828841_P6_Joao Lucas Bryan Goncalves Duarte (1)\AE(n)D\AE(n)D\obj\Debug\AE(n)D.csprojAssemblyReference.cache
+C:\Users\lucbr\Downloads\b423870b-e4fd-471b-ada9-5c128bf5bfb6_1828841_P6_Joao Lucas Bryan Goncalves Duarte (1)\AE(n)D\AE(n)D\obj\Debug\AE_n_D.ConsultasForm.resources
+C:\Users\lucbr\Downloads\b423870b-e4fd-471b-ada9-5c128bf5bfb6_1828841_P6_Joao Lucas Bryan Goncalves Duarte (1)\AE(n)D\AE(n)D\obj\Debug\AE_n_D.AnfangForms.resources
+C:\Users\lucbr\Downloads\b423870b-e4fd-471b-ada9-5c128bf5bfb6_1828841_P6_Joao Lucas Bryan Goncalves Duarte (1)\AE(n)D\AE(n)D\obj\Debug\AE_n_D.MenuForms.resources
+C:\Users\lucbr\Downloads\b423870b-e4fd-471b-ada9-5c128bf5bfb6_1828841_P6_Joao Lucas Bryan Goncalves Duarte (1)\AE(n)D\AE(n)D\obj\Debug\AE_n_D.MedicoForm.resources
+C:\Users\lucbr\Downloads\b423870b-e4fd-471b-ada9-5c128bf5bfb6_1828841_P6_Joao Lucas Bryan Goncalves Duarte (1)\AE(n)D\AE(n)D\obj\Debug\AE_n_D.PacienteForm.resources
+C:\Users\lucbr\Downloads\b423870b-e4fd-471b-ada9-5c128bf5bfb6_1828841_P6_Joao Lucas Bryan Goncalves Duarte (1)\AE(n)D\AE(n)D\obj\Debug\AE_n_D.Properties.Resources.resources
+C:\Users\lucbr\Downloads\b423870b-e4fd-471b-ada9-5c128bf5bfb6_1828841_P6_Joao Lucas Bryan Goncalves Duarte (1)\AE(n)D\AE(n)D\obj\Debug\AE(n)D.csproj.GenerateResource.cache
+C:\Users\lucbr\Downloads\b423870b-e4fd-471b-ada9-5c128bf5bfb6_1828841_P6_Joao Lucas Bryan Goncalves Duarte (1)\AE(n)D\AE(n)D\obj\Debug\AE(n)D.csproj.CoreCompileInputs.cache
+C:\Users\lucbr\Downloads\b423870b-e4fd-471b-ada9-5c128bf5bfb6_1828841_P6_Joao Lucas Bryan Goncalves Duarte (1)\AE(n)D\AE(n)D\obj\Debug\AE(n)D.exe
+C:\Users\lucbr\Downloads\b423870b-e4fd-471b-ada9-5c128bf5bfb6_1828841_P6_Joao Lucas Bryan Goncalves Duarte (1)\AE(n)D\AE(n)D\obj\Debug\AE(n)D.pdb
